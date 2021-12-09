@@ -23,7 +23,7 @@ Pacotes ICMP Time Exceeded: <src_name> ->> <dst_name> : ICMP Time Exceeded<br/>s
 
 Modo de execução do simulador
 
-$ simulador <topologia> <comando> <origem> <destino>
+$ java Simulador <topologia> <comando> <origem> <destino>
 
 EXEMPLO:
 
