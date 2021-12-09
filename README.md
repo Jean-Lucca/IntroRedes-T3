@@ -1,4 +1,4 @@
-# Introdução à redes de computadore - T3
+# Introdução à redes de computadores - T3
 
 Descrição
 
